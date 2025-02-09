@@ -12,8 +12,7 @@
 - 🔭 I’m currently working on **Next.js, React.js, AWS, and DevOps**  
 - 🌱 Learning **Data Structures & System Design** to level up my coding game  
 - 💡 Interested in **Cloud, Distributed Systems, and Scalable Architectures**  
-- 🎯 Building **real-time applications** with **AWS & WebSockets**  
-- 🎵 Fun Fact: I built a **music web player similar to Spotify** 🎧  
+- 🎯 Building **real-time applications** with **AWS & WebSockets**   
 
 ---
 
