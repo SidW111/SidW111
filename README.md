@@ -44,57 +44,41 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SidW111&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidW111&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidW111&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SidW111&theme=radical&no-bg=true&no-frame=true&margin-w=15"/>
 </p>
 
 ---
+ 
 
-## 🚀 Cool Projects  
-
-### 🎵 **Spotify-like Music Web Player**  
-- Built using **Next.js, React.js, PostgreSQL, Prisma, and AWS**  
-- Supports **real-time streaming, playlists, and authentication**  
-- 🚀 Hosted on **AWS & Vercel**  
-
-### 📊 **Real-time Task Assignment App**  
-- Drag-and-drop functionality using **React DnD**  
-- Uses **AWS Cognito for authentication**  
-- Backend powered by **Node.js & PostgreSQL**  
-
-[🔗 View More Projects](https://github.com/your-github-username?tab=repositories)  
+[🔗 View More Projects](https://github.com/SidW111?tab=repositories)  
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/siddhant-waingade-4b3b18238/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/SidW111">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email">
+  <a href="mailto:siddhantwainngade@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🎯 **Bonus: Fun Stats**
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
