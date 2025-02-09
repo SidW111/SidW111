@@ -1,44 +1,47 @@
-<h1 align="center">Hi 👋, I'm Siddhant Waingade</h1>
-<h3 align="center">A passionate Full Stack Developer 🚀</h3>
+<h1 align="center">Hey there! 👋 I'm Siddhant Waingade</h1>
+<h3 align="center">A Passionate Full Stack Developer & Cloud Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React.js+%7C+MERN+Stack;AWS+%7C+Docker+%7C+Prisma;Passionate+about+Cloud+and+Scalability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Next.js+%7C+React.js;AWS+%7C+Docker+%7C+Cloud+Computing;Building+Scalable+and+Performant+Apps;Always+Learning+%7C+Always+Improving+%F0%9F%94%A5" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 I'm a **Full Stack Developer** skilled in **Next.js, React.js, MERN Stack, AWS, Docker**, and more.
-- 🌱 Currently learning **DSA & System Design**.
-- ⚡ Love working with **cloud services**, **database optimizations**, and **real-time applications**.
-- 📫 How to reach me: **[Your Email]** | **[Your LinkedIn]**
+## 🚀 About Me  
+
+- 🔭 I’m currently working on **Next.js, React.js, AWS, and DevOps**  
+- 🌱 Learning **Data Structures & System Design** to level up my coding game  
+- 💡 Interested in **Cloud, Distributed Systems, and Scalable Architectures**  
+- 🎯 Building **real-time applications** with **AWS & WebSockets**  
+- 🎵 Fun Fact: I built a **music web player similar to Spotify** 🎧  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### Frontend  
+### **💻 Frontend**  
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend  
+### **🛠 Backend & Database**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### DevOps & Cloud  
+### **☁️ Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="180px"/>
@@ -51,7 +54,31 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 🚀 Cool Projects  
+
+### 🎵 **Spotify-like Music Web Player**  
+- Built using **Next.js, React.js, PostgreSQL, Prisma, and AWS**  
+- Supports **real-time streaming, playlists, and authentication**  
+- 🚀 Hosted on **AWS & Vercel**  
+
+### 📊 **Real-time Task Assignment App**  
+- Drag-and-drop functionality using **React DnD**  
+- Uses **AWS Cognito for authentication**  
+- Backend powered by **Node.js & PostgreSQL**  
+
+[🔗 View More Projects](https://github.com/your-github-username?tab=repositories)  
+
+---
+
+## 🌐 Connect with Me  
+
 <p align="center">
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -63,3 +90,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 🎯 **Bonus: Fun Stats**
+![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💡 Want to Collaborate?  
+📩 **Drop me a message** and let's build something amazing together! 🚀  
