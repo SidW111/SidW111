@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Siddhant Waingade</h1>
+<h1 align="center">Hey there! 👋 I'm Siddhant Waingade </h1>
 <h3 align="center">A Passionate Full Stack Developer & Cloud Enthusiast 🚀</h3>
 
 <p align="center">
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/siddhant-waingade-4b3b18238/">
