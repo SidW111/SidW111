@@ -68,7 +68,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/siddhant-waingade-4b3b18238/">
+  <a href="https://www.linkedin.com/in/siddhant-waingade-4b3b18238/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SidW111">
