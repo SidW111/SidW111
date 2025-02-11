@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Siddhant Waingade </h1>
+<h1 align="center">Hey there! ⚡ I'm Siddhant Waingade </h1>
 <h3 align="center">A Passionate Full Stack Developer & Cloud Enthusiast 🚀</h3>
 
 <p align="center">
